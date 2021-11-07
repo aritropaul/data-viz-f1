@@ -38,7 +38,6 @@ const data = {
 };
 
 const options = {
-  // eslint-disable-next-line prettier/prettier,
   indexAxis: 'y',
   scales: {
     y: {
@@ -54,15 +53,9 @@ const options = {
 };
 
 const StackedBarData = () => {
-  return (
-    <Bar
-      data={data}
-      options={options}
-      className="mt-12"
-      width={400}
-      height={400}
-    />
-  );
+   /* eslint-disable */ 
+  return (<Bar data={data} options={options} className="mt-12" width={400} height={400} />);
+  /* eslint-enable */
 };
 
 export { StackedBarData };

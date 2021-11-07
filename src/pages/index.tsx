@@ -3,6 +3,7 @@ import React from 'react';
 import { LineData } from '../components/LineData';
 import { RadarData } from '../components/RadarData';
 // @ts-ignore
+// eslint-disable-next-line import/extensions
 import { StackedBarData } from '../components/StackedBarData.js';
 import { Trophies } from '../components/Trophies';
 import { Meta } from '../layout/Meta';
