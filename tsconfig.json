@@ -26,8 +26,8 @@
 
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
-    "allowJs": false,
-    "skipLibCheck": false,
+    "allowJs": true,
+    "skipLibCheck": true,
     "forceConsistentCasingInFileNames": true,
 
     "jsx": "preserve",
