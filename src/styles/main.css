@@ -1,5 +1,9 @@
 @tailwind base;
 
+body {
+  background-color: #000;
+}
+
 a {
   @apply text-blue-700;
 }
@@ -9,8 +13,11 @@ a:hover {
 }
 
 @tailwind components;
-
 @tailwind utilities;
+
+h1 {
+  @apply text-white text-4xl font-bold
+}
 
 .content p {
   @apply my-6;
