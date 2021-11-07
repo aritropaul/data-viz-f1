@@ -2,7 +2,8 @@ import React from 'react';
 
 import { LineData } from '../components/LineData';
 import { RadarData } from '../components/RadarData';
-import { StackedBarData } from '../components/StackedBarData';
+// @ts-ignore
+import { StackedBarData } from '../components/StackedBarData.js';
 import { Trophies } from '../components/Trophies';
 import { Meta } from '../layout/Meta';
 import { Main } from '../templates/Main';
