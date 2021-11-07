@@ -25,7 +25,11 @@ const LapTimes = () => {
       <Listbox value={selectedCircuit} onChange={setSelectedCircuit}>
         <div className="mt-1 w-80 mx-auto">
           <Listbox.Button className="relative w-80 mx-auto py-2 pl-3 pr-10 text-center bg-white/[0.12] rounded-lg shadow-md cursor-default sm:text-sm text-white font-semibold">
-            <span className="block truncate">{selectedCircuit.name || ''}</span>
+            {selectedCircuit !== undefined && (
+              <span className="block truncate">
+                {selectedCircuit.name || ''}
+              </span>
+            )}
             <span className="absolute inset-y-0 right-0 flex items-center pr-2 pointer-events-none">
               <SelectorIcon
                 className="w-5 h-5 text-gray-400"
