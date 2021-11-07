@@ -1,5 +1,7 @@
 import React from 'react';
 
+import { BestCnst } from '../components/BestCnst';
+import { LapTimes } from '../components/LapTimes';
 import { LineData } from '../components/LineData';
 import { RadarData } from '../components/RadarData';
 // @ts-ignore
@@ -26,6 +28,12 @@ const Index = () => {
       <h3 className="text-center font-semibold text-lg text-gray-700">
         Aritro Paul, Purva Mundlye, Sonica Kulkarni
       </h3>
+      <div className="w-[800px] mx-auto">
+        <h2 className="text-center font-semibold text-xl text-white mt-12 pt-20">
+          Best Constructors over the years
+        </h2>
+        <BestCnst></BestCnst>
+      </div>
       <h2 className="text-center font-semibold text-xl text-white mt-12 pt-20">
         World Drivers Championships won (1991-2001)
       </h2>
@@ -47,6 +55,12 @@ const Index = () => {
           Season Results(1991-2001)
         </h2>
         <LineData></LineData>
+      </div>
+      <div className="w-[800px] mx-auto pb-12">
+        <h2 className="text-center font-semibold text-xl text-white mt-12 pt-20">
+          Best Laptimes
+        </h2>
+        <LapTimes></LapTimes>
       </div>
     </Main>
   );
