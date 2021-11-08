@@ -3,6 +3,8 @@ import React, { Fragment, useState } from 'react';
 import { Listbox, Transition, Tab } from '@headlessui/react';
 import { CheckIcon, SelectorIcon } from '@heroicons/react/solid';
 
+import { Time } from './Time';
+
 function classNames(...classes: string[]) {
   return classes.filter(Boolean).join(' ');
 }
@@ -102,13 +104,17 @@ const LapTimes = () => {
               );
             })}
           </Tab.List>
-          <Tab.Panels>
-            <Tab.Panel>Content 1</Tab.Panel>
-            <Tab.Panel>Content 2</Tab.Panel>
-            <Tab.Panel>Content 3</Tab.Panel>
-            <Tab.Panel>Content 4</Tab.Panel>
-            <Tab.Panel>Content 5</Tab.Panel>
-          </Tab.Panels>
+          {selectedCircuit !== undefined && (
+            <Tab.Panels>
+              {years.map((year) => {
+                return (
+                  <Tab.Panel key={year}>
+                    <Time id={selectedCircuit.id} year={year}></Time>
+                  </Tab.Panel>
+                );
+              })}
+            </Tab.Panels>
+          )}
         </Tab.Group>
       </div>
     </div>
