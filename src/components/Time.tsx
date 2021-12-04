@@ -53,6 +53,11 @@ const Time = (props: ITimeProps) => {
         <Monaco2019 className="container w-800 h-500"></Monaco2019>
       )
     }
+    else {
+      return (
+        <div className="text-left font-semibold text-2xl mt-12 text-white">No data available for this year.</div>
+      )
+    }
   }
   if (track === 'marinabay') {
     return (
