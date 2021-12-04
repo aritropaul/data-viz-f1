@@ -16,15 +16,15 @@ const Index = () => {
     <Main
       meta={
         <Meta
-          title="Next.js Boilerplate Presentation"
-          description="Next js Boilerplate is the perfect starter code for your project. Build your React application with the Next.js framework."
+          title="Fast Furious Formula 1"
+          description="A small data visualization experiment on F1 data over the last couple years."
         />
       }
     >
       <h3 className="text-center font-semibold text-lg text-gray-700 pt-12 mt-12">
         Data Visualization - INST 760
       </h3>
-      <h1 className="text-center">Formula 1 Visualization</h1>
+      <h1 className="text-center">Fast Furious Formula 1</h1>
       <h3 className="text-center font-semibold text-lg text-gray-700">
         Aritro Paul, Purva Mundlye, Sonica Kulkarni
       </h3>
