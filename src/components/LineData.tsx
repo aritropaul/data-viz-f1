@@ -22,7 +22,17 @@ const data = {
 
 const options = {
   scales: {
+    x: {
+      title: {
+        display: true,
+        text: 'Year',
+      },
+    },
     y: {
+      title: {
+        display: true,
+        text: 'Finishing Position',
+      },
       beginAtZero: true,
     },
   },

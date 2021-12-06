@@ -1,0 +1,24 @@
+<svg width="1000" height="800" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Data Visualization - Information" clip-path="url(#clip0_239_112)">
+<text id="First-Time" transform="translate(766 222.618) rotate(-60.8342)" fill="white" xml:space="preserve" style="white-space: pre" font-family="SF Pro Display" font-size="20" letter-spacing="0em"><tspan x="0" y="28.1094">1:42.301</tspan></text>
+<text id="Second-Time" transform="translate(667.849 335.181) rotate(-60)" fill="white" xml:space="preserve" style="white-space: pre" font-family="SF Pro Display" font-size="20" letter-spacing="0em"><tspan x="0" y="28.1094">1:43.534</tspan></text>
+<text id="Third-Time" transform="translate(618 365.684) rotate(-60)" fill="white" xml:space="preserve" style="white-space: pre" font-family="SF Pro Display" font-size="20" letter-spacing="0em"><tspan x="0" y="28.1094">1:43.828</tspan></text>
+<text id="Fourth-Time" transform="translate(589 362.22) rotate(-60)" fill="white" xml:space="preserve" style="white-space: pre" font-family="SF Pro Display" font-size="20" letter-spacing="0em"><tspan x="0" y="28.1094">1:43.371</tspan></text>
+<text id="Fifth-Time" transform="translate(548 377.952) rotate(-60)" fill="white" xml:space="preserve" style="white-space: pre" font-family="SF Pro Display" font-size="20" letter-spacing="0em"><tspan x="0" y="28.1094">1:43.723</tspan></text>
+<path id="Vector 25" d="M941.39 -64C914.746 -50.9941 857.197 -17.1786 840.145 14.0356L527.531 580C527.531 580 516.53 634.924 545 671C573.47 707.076 681.58 717.939 696.271 769.5C710.963 821.061 683.462 895.444 703 918.5C722.539 941.556 858.238 1061.67 876 1086.5C893.763 1111.33 955.6 1172.16 971.586 1157.97C987.571 1143.78 996.453 1095.89 1000.01 1053.33C1002.85 1019.28 1056.33 821.677 1073.5 733" stroke="white" stroke-opacity="0.1" stroke-width="140"/>
+<path id="Vector 26" d="M776 251C687.5 398.333 589.116 572.8 589.116 600C589.116 634 586.116 641 610.616 652.5C635.116 664 735.552 706 749.116 756.5C762.681 807 738.616 862.5 749.116 889C757.516 910.2 876.833 1006.17 946.5 1061.5L1014 713" stroke="#FBBA72" stroke-width="30" stroke-linecap="round"/>
+<path id="Vector 27" d="M670.5 376.5C590.5 519.5 564 556.9 560 596.5C555 646 568.5 658 589 673C609.5 688 724.5 729.507 724.5 779.5C724.5 831.5 705 894.5 734.5 915C764 935.5 925.5 1110 951 1098.5C971.4 1089.3 1004.67 938 1011 864" stroke="#CA5310" stroke-width="30" stroke-linecap="round"/>
+<path id="Vector 28" d="M626 396C626 396 546 529 536.5 565C527 601 523.1 651.8 551.5 675C587 704 696.5 738 703.5 802C710.5 866 686 884 703.5 919C717.5 947 799.5 1008.17 840.5 1042.5" stroke="#BB4D00" stroke-width="30" stroke-linecap="round"/>
+<path id="Vector 29" d="M594.5 391C594.5 391 523.5 512.5 509.5 551.5C495.5 590.5 495.5 674.8 535.5 698C585.5 727 675 768.5 676.5 810.5C678 852.5 663 884.5 673 921C681 950.2 750.333 1003.33 787 1033" stroke="#8F250C" stroke-width="30" stroke-linecap="round"/>
+<path id="Vector 30" d="M554.5 404C554.5 404 474.999 532 472 590.5C469 649 480.3 672.5 489.5 688.5C501 708.5 509.5 719.5 551 738C592.5 756.5 649 787 647 819C645 851 634.5 911 649 937.5C660.6 958.7 704.666 995.333 727.5 1015" stroke="#691E06" stroke-width="30" stroke-linecap="round"/>
+<text id="Year" fill="white" xml:space="preserve" style="white-space: pre" font-family="SF Pro Display" font-size="50" font-weight="600" letter-spacing="0em"><tspan x="70" y="361.773">2019</tspan></text>
+<text id="Circuit-Name" fill="white" fill-opacity="0.6" xml:space="preserve" style="white-space: pre" font-family="SF Pro Display" font-size="30" font-weight="600" letter-spacing="0em"><tspan x="70" y="399.664">Marina Bay&#10;</tspan><tspan x="70" y="429.664">Street Circuit</tspan></text>
+<text id="Driver" fill="white" xml:space="preserve" style="white-space: pre" font-family="SF Pro Display" font-size="30" font-weight="bold" letter-spacing="0em"><tspan x="70" y="210.664">Kevin Magnussen</tspan></text>
+<text id="Time" fill="white" fill-opacity="0.4" xml:space="preserve" style="white-space: pre" font-family="SF Pro Display" font-size="40" font-weight="800" letter-spacing="0em"><tspan x="70" y="172.219">1:42.301</tspan></text>
+</g>
+<defs>
+<clipPath id="clip0_239_112">
+<rect width="1000" height="1000" fill="white"/>
+</clipPath>
+</defs>
+</svg>

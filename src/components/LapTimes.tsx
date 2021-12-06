@@ -10,14 +10,34 @@ function classNames(...classes: string[]) {
 }
 
 const circuits = [
-  { name: 'Circuit De Monaco', id: 'monaco' },
-  { name: 'Circuit De Spa-Francorchamps', id: 'spa' },
-  { name: 'Autodromo Nazionale di Monza', id: 'monza' },
-  { name: 'Marina Bay Street Circuit', id: 'marinabay' },
-  { name: 'Red Bull Ring', id: 'redbull' },
+  {
+    name: 'Circuit De Monaco',
+    id: 'monaco',
+    info: 'Circuit de Monaco is a very famous street circuit that has hosted Grand Prixs since 1929. Arguably one of the least safe circuits, Monaco passes through the streets of Monte Carlo. It takes about six weeks to build the circuit and then three weeks to dismantle it. You’d find many celebrities and stars from around the world in the paddock and grandstands during a typical Monaco Grand Prix weekend.',
+  },
+  {
+    name: 'Circuit De Spa-Francorchamps',
+    id: 'spa',
+    info: 'Circuit de Spa-Francorchamps located in Belgium first hosted a Grand Prix in 1929 and became a staple circuit in 1985. Spa was regarded as one of the fastest and most dangerous circuits leading to F1 drivers boycotting it at one point. After safety upgrades and layout changes, the circuit was brought back in 1983. And while the current circuit is much safer, it has managed to retain its original charm.',
+  },
+  {
+    name: 'Autodromo Nazionale di Monza',
+    id: 'monza',
+    info: 'Autodromo Nazionale di Monza has a rich history in Formula 1. Known as the fastest circuit in F1, the Italian track is very simplistic in nature. On a Monza Grand Prix weekend, cars are set up to have the lowest drag to fly past with great speed.',
+  },
+  {
+    name: 'Marina Bay Street Circuit',
+    id: 'marinabay',
+    info: 'The Marina Bay Street Circuit is located in Singapore. The uniqueness of this circuit is that due to high temperature and humidity, it hosts a night race. Initially having a lot of bumps, the circuit had to be modified to avoid damage to the cars and drivers. Now, the circuit hosts one of the most enthralling races.',
+  },
+  {
+    name: 'Red Bull Ring',
+    id: 'redbull',
+    info: 'Located in Austria, Red Bull Ring is situated in the mountains and is one of the most scenic circuits on the calendar. It is the home track for the Red Bull team. The weather always plays a part in making this race interesting.',
+  },
 ];
 
-const years = [2014, 2015, 2016, 2017, 2018, 2019, 2020];
+const years = [2014, 2015, 2016, 2017, 2018, 2019];
 
 const LapTimes = () => {
   const [selectedCircuit, setSelectedCircuit] = useState(circuits[0]);
@@ -82,6 +102,11 @@ const LapTimes = () => {
           </Transition>
         </div>
       </Listbox>
+      <div className="w-[400]">
+        <p className="font-medium text-md text-gray-600 mt-8">
+          {selectedCircuit?.info}
+        </p>
+      </div>
       <div className="w-[400] mx-auto px-12 py-12 sm:px-0">
         <Tab.Group>
           <Tab.List className="flex p-1 space-x-1 bg-blue-900/20 rounded-xl">

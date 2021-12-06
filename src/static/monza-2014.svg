@@ -1,0 +1,24 @@
+<svg width="1000" height="800" viewBox="0 0 1000 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Data Visualization - Information" clip-path="url(#clip0_239_128)">
+<path id="Vector 31" d="M1460 1037C1296.39 885.303 967.59 568.075 946 546.5C919.013 519.532 816.547 372.679 784.5 312C752.453 251.321 721.234 237.186 687.5 235.5C653.766 233.815 478.241 275.814 458 277.5C437.759 279.186 394 295.5 394 347C394 421.5 534 638.5 567 717.5C600 796.5 582.755 940.662 594 1025.5L666 1274" stroke="white" stroke-opacity="0.1" stroke-width="140" stroke-linecap="round"/>
+<path id="Vector 33" d="M1018 699C991 680.5 888.5 577.5 864.5 544C834.5 511 710.5 309.5 710.5 309.5C699 298 698.9 292.4 634.5 302C570.1 311.6 502.5 325 478.5 329C454.5 333 443.5 345 460.5 385.5C477.5 426 573 601.5 602 657.5" stroke="#77BFA3" stroke-width="30" stroke-linecap="round"/>
+<path id="Vector 34" d="M1012.5 664.5L878.102 518.155C877.701 517.719 877.367 517.291 877.05 516.791C868.554 503.404 742.443 304.774 726.5 284C710 262.5 671.998 265 628.499 273C582.469 281.465 490.999 296.5 451.999 307.5C415.499 327 414.5 358.6 442.5 417C470.5 475.4 541 605.333 570.5 661.5" stroke="#98C9A3" stroke-width="30" stroke-linecap="round"/>
+<path id="Vector 35" d="M1013.5 620.5C1008 618 918.499 525.5 899.999 497C881.499 468.5 757.999 270.999 742.999 257.5C727.999 244 699.282 234.579 663.999 238.5C623.499 243 454.423 274.729 433.5 285C406 298.5 380.5 336 401.5 393.5C418.3 439.5 503.667 597 538.5 664.5" stroke="#BFD8BD" stroke-width="30" stroke-linecap="round"/>
+<path id="Vector 36" d="M1016.5 584C999 564.667 944.5 508 927 484C912.732 464.434 770 237.5 748.5 225.5C727 213.5 678.8 212 634 218C578 225.5 455.501 247.5 413.5 266C371.499 284.5 358.5 355 371.5 395C381.9 427 458.667 577.167 491 638.5" stroke="#DDE7C7" stroke-width="30" stroke-linecap="round"/>
+<path id="Vector 37" d="M1016 539.5C1007.67 531.333 961.6 488.6 944 459C926.4 429.4 796.814 239 777.5 212C758.186 185 703 183 651 187.5C598.868 192.012 440 225.5 388.5 249.5C337 273.5 332.642 366.94 347.5 411C362 454 430.5 574.167 453.5 625.5" stroke="#EDEEC9" stroke-width="30" stroke-linecap="round"/>
+<text id="First-Time" transform="translate(632.599 666) rotate(70.5309)" fill="white" xml:space="preserve" style="white-space: pre" font-family="SF Pro Display" font-size="20" letter-spacing="0em"><tspan x="0" y="28.1094">1:28.004</tspan></text>
+<text id="Second-Time" transform="translate(484.906 635) rotate(61.4869)" fill="white" xml:space="preserve" style="white-space: pre" font-family="SF Pro Display" font-size="20" letter-spacing="0em"><tspan x="0" y="28.1094">1:28.320</tspan></text>
+<text id="Third-Time" transform="translate(519.247 647) rotate(65.593)" fill="white" xml:space="preserve" style="white-space: pre" font-family="SF Pro Display" font-size="20" letter-spacing="0em"><tspan x="0" y="28.1094">1:28.206</tspan></text>
+<text id="Fourth-Time" transform="translate(563.706 675.445) rotate(67.7402)" fill="white" xml:space="preserve" style="white-space: pre" font-family="SF Pro Display" font-size="20" letter-spacing="0em"><tspan x="0" y="28.1094">1:28.088</tspan></text>
+<text id="Fifth-Time" transform="translate(597.814 672) rotate(67.5411)" fill="white" xml:space="preserve" style="white-space: pre" font-family="SF Pro Display" font-size="20" letter-spacing="0em"><tspan x="0" y="28.1094">1:28.053</tspan></text>
+<text id="Year" fill="white" xml:space="preserve" style="white-space: pre" font-family="SF Pro Display" font-size="50" font-weight="600" letter-spacing="0em"><tspan x="70" y="361.773">2014</tspan></text>
+<text id="Circuit-Name" fill="white" fill-opacity="0.6" xml:space="preserve" style="white-space: pre" font-family="SF Pro Display" font-size="30" font-weight="600" letter-spacing="0em"><tspan x="70" y="399.664">Autodromo &#10;</tspan><tspan x="70" y="429.664">Nazionale di Monza</tspan></text>
+<text id="Driver" fill="white" xml:space="preserve" style="white-space: pre" font-family="SF Pro Display" font-size="30" font-weight="bold" letter-spacing="0em"><tspan x="70" y="210.664">Lewis Hamilton</tspan></text>
+<text id="Time" fill="white" fill-opacity="0.4" xml:space="preserve" style="white-space: pre" font-family="SF Pro Display" font-size="40" font-weight="800" letter-spacing="0em"><tspan x="70" y="172.219">1:28.004</tspan></text>
+</g>
+<defs>
+<clipPath id="clip0_239_128">
+<rect width="1000" height="1000" fill="white"/>
+</clipPath>
+</defs>
+</svg>
