@@ -34,9 +34,9 @@ const Index = () => {
         </h2>
         <p className="font-medium text-md text-gray-600 mt-8">
           Constructors are essentially teams that build cars and participate in
-          Grand Prix. Let's take a look at currently active teams and the number
-          of their race wins to understand their dominance and history a little
-          better.
+          Grand Prix. Let us take a look at currently active teams and the
+          number of their race wins to understand their dominance and history a
+          little better.
         </p>
         <BestCnst></BestCnst>
       </div>
