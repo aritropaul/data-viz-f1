@@ -30,7 +30,7 @@ const BestCnst = () => {
           <div className="bg-red-600 text-white font-semibold rounded-r-xl">
             <h3 className="text-right mr-4">
               Ferrari <br />
-              283 Wins
+              238 Wins
             </h3>
           </div>
         </div>
@@ -82,7 +82,7 @@ const BestCnst = () => {
           <div className="bg-green-400 text-white font-semibold rounded-r-xl">
             <h3 className="text-right mr-4">
               Mercedes <br />
-              121 Wins
+              124 Wins
             </h3>
           </div>
           <div></div>
@@ -118,14 +118,14 @@ const BestCnst = () => {
           <div className="bg-gray-600">
             <img
               className="mt-4"
-              src="https://www.formula1.com/content/dam/fom-website/manual/Misc/PreSeasonPowerRankings/renault.png.transform/9col/image.png"
+              src="https://www.formula1.com/content/dam/fom-website/teams/2021-Team-Pages/teamcar-redbull.png.transform/2col-retina/image.png"
               alt=""
             ></img>
           </div>
           <div className="bg-gray-600 text-white font-semibold rounded-r-xl">
             <h3 className="text-right mr-4">
-              Renault <br />
-              79 Wins
+              Redbull <br />
+              74 Wins
             </h3>
           </div>
           <div></div>
